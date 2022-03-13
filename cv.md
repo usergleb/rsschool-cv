@@ -13,20 +13,22 @@ If you would like to contact with me you can message me in :
 
 ### About me
 
-I would like to be frontend-developer,cause it can give me the (возможность) to make web-apps,
+I would like to be frontend-developer,cause it can give me the opportunity to make web-apps,
 which i can use in future. But the main reason is that i want to make our life easier and more comfortable.
 
 ### Tech-Skills 
 
-* Start learnign HTML/CSS/JS.
+* Fundamental knowledge of HTML/CSS.
 * Algoritmics thinking. 
-* Basic knowledge of c/c++/c#
+* Basic knowledge of c/c++/c#/JS
 * Some things from UI/UX design
+* BEM 
+* SCSS
 
 ### Education 
 
 **Bsuir** (Belarusian State University Informatics and Radioelectronics)
-*Speciality - инжинер-системотехник*
+*Speciality - systems engineer*
 
 ### English Knowledge
 
