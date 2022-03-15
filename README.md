@@ -1,2 +1,2 @@
 
-https://usergleb.github.io/rsschool-cv/cv
+https://usergleb.github.io/rsschool-cv/
